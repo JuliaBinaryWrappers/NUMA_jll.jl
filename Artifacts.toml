@@ -1,103 +1,103 @@
 [[NUMA]]
 arch = "aarch64"
-git-tree-sha1 = "847f098a30d086ac2c5cfa093fc75aad9d01dcc9"
+git-tree-sha1 = "bc59aed7663c8c8b093f125031ed87fb8188a6e9"
 libc = "glibc"
 os = "linux"
 
     [[NUMA.download]]
-    sha256 = "616c5bf19405fff3dbf93d3c4c5e4a985cc8344cf80599819a136ced243639f2"
-    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.14+0/NUMA.v2.0.14.aarch64-linux-gnu.tar.gz"
+    sha256 = "d71364431e631cfa3684a05d74eea43cb371198edd687967d84e38d58691f88a"
+    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.18+0/NUMA.v2.0.18.aarch64-linux-gnu.tar.gz"
 [[NUMA]]
 arch = "aarch64"
-git-tree-sha1 = "bedd1aa4cd8d87aafac0119871a4314c5805e165"
+git-tree-sha1 = "0d41b399288334c8fe67734406f83d97f96d08d4"
 libc = "musl"
 os = "linux"
 
     [[NUMA.download]]
-    sha256 = "ca577dd1c90a1cd41419369ff2fed98dfcfc96f7b45a7f5a6e559b01776f7202"
-    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.14+0/NUMA.v2.0.14.aarch64-linux-musl.tar.gz"
+    sha256 = "0099eb2a84f631c440cde6a0329a051aaba76a592c3a6c47a5bba500d0685a0c"
+    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.18+0/NUMA.v2.0.18.aarch64-linux-musl.tar.gz"
 [[NUMA]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "f4b3363852f345d389bee511ced0beef61223022"
+git-tree-sha1 = "e598a87d37f262d65783ecf729e273074aa9346b"
 libc = "glibc"
 os = "linux"
 
     [[NUMA.download]]
-    sha256 = "eaaa60deaaf0ee6ae0cbcb8eb200ea4bbfbca52090215c53b621a29eb7d765b5"
-    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.14+0/NUMA.v2.0.14.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "0c2fb04b4ba223ac69b5667babfb9828a77ecdd111d87b78b4000f2b1886524c"
+    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.18+0/NUMA.v2.0.18.armv6l-linux-gnueabihf.tar.gz"
 [[NUMA]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "2468a456048584dae92b953759fff489f4179ae4"
+git-tree-sha1 = "85a914746818f492e7eec328cefb2b185fe4ac5e"
 libc = "musl"
 os = "linux"
 
     [[NUMA.download]]
-    sha256 = "2347e91668181283765082392526ffbede8d12021155afccfc39fd9ed11c33c9"
-    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.14+0/NUMA.v2.0.14.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "d05f99ffd1e6aa3895f0c6d51f166d7817511ae899695e89d1d7be4da2fd06a8"
+    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.18+0/NUMA.v2.0.18.armv6l-linux-musleabihf.tar.gz"
 [[NUMA]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "0e56ef04e574905964b799380a1f23573f2c02b9"
+git-tree-sha1 = "e191bae1b9e5675a11c9de4f52db8f2d20f7e394"
 libc = "glibc"
 os = "linux"
 
     [[NUMA.download]]
-    sha256 = "60938c776890627ab3e136c48860a8791ceea2be9e3f2dd814d13d0060df3c8a"
-    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.14+0/NUMA.v2.0.14.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "e1758f1716555f1d475399922eb6bcaecdf38b0a8583a64b813e708860c53277"
+    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.18+0/NUMA.v2.0.18.armv7l-linux-gnueabihf.tar.gz"
 [[NUMA]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "071725711c419374cec12f4c3714b6694b2b6c38"
+git-tree-sha1 = "f2676f3b77c07968a946b8bc98b8ff1d2b192daa"
 libc = "musl"
 os = "linux"
 
     [[NUMA.download]]
-    sha256 = "3089175add0c89e4767da4b2e6c0e702f6d51465e8e9d28029065310161f3055"
-    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.14+0/NUMA.v2.0.14.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "7dc14420c9117f207ca071fabe228fcfc30b3e04baacf5c9a47f3d5e64adf530"
+    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.18+0/NUMA.v2.0.18.armv7l-linux-musleabihf.tar.gz"
 [[NUMA]]
 arch = "i686"
-git-tree-sha1 = "1d7359eab8e7b497ee656e1988d1f0dca5f43a78"
+git-tree-sha1 = "1d49d8ce7750775a752a7a0a3242b8d0190e5dfc"
 libc = "glibc"
 os = "linux"
 
     [[NUMA.download]]
-    sha256 = "a1bfd18b1b7bfef7abd01024cf52c4d484260a9e599b47d67b6d70bf98878a74"
-    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.14+0/NUMA.v2.0.14.i686-linux-gnu.tar.gz"
+    sha256 = "b528ae4d019f8b10533d104c16e787de4856c72bdba3713a89bca3d527d2e7f7"
+    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.18+0/NUMA.v2.0.18.i686-linux-gnu.tar.gz"
 [[NUMA]]
 arch = "i686"
-git-tree-sha1 = "6133ef596debc0836b70c02c34a6b2893bc6ff6a"
+git-tree-sha1 = "7ef71db51e841d3cd927f9656528abebac7db38d"
 libc = "musl"
 os = "linux"
 
     [[NUMA.download]]
-    sha256 = "9b50155adb7c1c97a89df636f49c9cc3ae8fee1e96df95a62e356b24a7e9145d"
-    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.14+0/NUMA.v2.0.14.i686-linux-musl.tar.gz"
+    sha256 = "bd4ae3152faef62061cee350b152691338c4d10b7024a391e17fcc2253a9a9d9"
+    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.18+0/NUMA.v2.0.18.i686-linux-musl.tar.gz"
 [[NUMA]]
 arch = "powerpc64le"
-git-tree-sha1 = "65e411d612398389a5587e1aa7a4b6c17f9c4cc5"
+git-tree-sha1 = "34e54414b5d143f57fa85c210383ff3d42903124"
 libc = "glibc"
 os = "linux"
 
     [[NUMA.download]]
-    sha256 = "9f4247c4e2f27071882d9500ae2708ba30b17f78d00216a859425826dd2161e1"
-    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.14+0/NUMA.v2.0.14.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "00abd0e792705e8e52d1aead0da99474153deb569590b15eda8343922fb72bc6"
+    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.18+0/NUMA.v2.0.18.powerpc64le-linux-gnu.tar.gz"
 [[NUMA]]
 arch = "x86_64"
-git-tree-sha1 = "022584ab361718f1eb76273f5ebf228ff43c8eb5"
+git-tree-sha1 = "aac6672924af5b03140a63a4a5eae4e279da8e76"
 libc = "glibc"
 os = "linux"
 
     [[NUMA.download]]
-    sha256 = "4cc75258a036d5664ead34827459129042244c2e1baabb65a184e8d7a2a494b6"
-    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.14+0/NUMA.v2.0.14.x86_64-linux-gnu.tar.gz"
+    sha256 = "79143cfdb2fd5ee6b46eb13d73130ef9ee4d11e3a24173de2f2d4e5e02ac6fc0"
+    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.18+0/NUMA.v2.0.18.x86_64-linux-gnu.tar.gz"
 [[NUMA]]
 arch = "x86_64"
-git-tree-sha1 = "8e6c304941a75df06c54ba291cb55317aacb5cf7"
+git-tree-sha1 = "3dfbbd374d06b6879947f2fecebf6b626bafc2d3"
 libc = "musl"
 os = "linux"
 
     [[NUMA.download]]
-    sha256 = "aeaf5f482800954f85f26a0116b8fa5f5a0434fdef75fa30480c329f45610312"
-    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.14+0/NUMA.v2.0.14.x86_64-linux-musl.tar.gz"
+    sha256 = "428ee2f6d07d7a6b7417c727ad67d0db6725da25a2809ea5378124188b35fcb0"
+    url = "https://github.com/JuliaBinaryWrappers/NUMA_jll.jl/releases/download/NUMA-v2.0.18+0/NUMA.v2.0.18.x86_64-linux-musl.tar.gz"
